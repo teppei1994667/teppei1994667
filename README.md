@@ -6,7 +6,7 @@
 |在住|大阪市内|
 |Twitter|[@SasadaTeppei](https://twitter.com/SasadaTeppei)|
 |Qiita|[@tepp667](https://qiita.com/tepp667)
-|ポートフォリオ|[作成中](#) (ほぼElixirのみ)|
+|ポートフォリオ|[作成中]|
 |学習言語|Ruby,JavaScript,Java|
 |学習中のフレームワーク|Ruby on Rails, React| 
 
