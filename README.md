@@ -10,7 +10,7 @@
 |学習言語|Ruby,JavaScript,Java|
 |学習中のフレームワーク|Ruby on Rails, React| 
 
-##概要
+## 概要
 ー2021年に未経験からプログラミングスクールに通いRubyとRuby on Railsを学びました。
 
 -2022年2月からSI系のSESでエンジニアをしております。
