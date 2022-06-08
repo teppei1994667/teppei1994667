@@ -1,16 +1,17 @@
-### Hi there 👋
+## Profile
 
-<!--
-**teppei1994667/teppei1994667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|key|value|
+|----|----|
+|名前|笹田　哲平|
+|在住|大阪市内|
+|Twitter|[@SasadaTeppei](https://twitter.com/SasadaTeppei)|
+|Qiita|[@tepp667](https://qiita.com/tepp667)
+|ポートフォリオ|[作成中](#) (ほぼElixirのみ)|
+|学習言語|Ruby,JavaScript,Java|
+|学習中のフレームワーク|Ruby on Rails, React| 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##概要
+ー2021年に未経験からプログラミングスクールに通いRubyとRuby on Railsを学びました。
+-2022年2月からSI系のSESでエンジニアをしております。
+-スクール時代に使った　Ruby on Railsnの楽しさが忘れられず現在ポートフォリオを作成しています。
+-将来的には大阪でRubyとRailsを使っているWEB系の企業に転職したいと考えています。
