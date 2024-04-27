@@ -7,8 +7,8 @@
 |Twitter|[@SasadaTeppei](https://twitter.com/SasadaTeppei)|
 |Qiita|[@tepp667](https://qiita.com/tepp667)
 |ポートフォリオ|[作成中]|
-|言語|Ruby,JavaScript,TypeScript, SQL, HTML, CSS|
-|フレームワーク|Ruby on Rails, React| 
+|言語|JavaScript,TypeScript,Java,Ruby, SQL, HTML, CSS|
+|フレームワーク|React, spring, Ruby on Rails| 
 
 ## 概要
 - 2021年に未経験からプログラミングスクールに通いRubyとRuby on Railsを学びました。
